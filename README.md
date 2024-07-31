@@ -1,8 +1,6 @@
 # Automatidata
 *A Fictional Data Consulting Firm*
 
-## Capstone Project: Automatidata & New York City TLC
-
 ### Project Overview
 This project is part of the Google Advanced Data Analytics Certificate, simulating the full lifecycle of a data project. Automatidata, a fictional data consulting firm, is collaborating with the New York City Taxi and Limousine Commission (TLC) to develop an app that estimates taxi fares. This project encompasses all stages from planning to model evaluation, leveraging technical and communication skills crucial in data analytics.
 
