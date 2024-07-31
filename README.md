@@ -1,5 +1,5 @@
 # Automatidata
-This project was completed as part of the Google Advanced Data Analytics Portfolio Project.
+*A Fictional Data Consulting Firm*
 
 ## Capstone Project: Automatidata & New York City TLC
 
