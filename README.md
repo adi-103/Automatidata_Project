@@ -1,5 +1,5 @@
 # Automatidata
-*A Fictional Data Consulting Firm*
+*A Data Consulting Firm*
 
 ### Project Overview
 This project is part of the Google Advanced Data Analytics Certificate, simulating the full lifecycle of a data project. Automatidata, a fictional data consulting firm, is collaborating with the New York City Taxi and Limousine Commission (TLC) to develop an app that estimates taxi fares. This project encompasses all stages from planning to model evaluation, leveraging technical and communication skills crucial in data analytics.
@@ -18,7 +18,7 @@ This project is part of the Google Advanced Data Analytics Certificate, simulati
 
 6. **Machine Learning**: Build and evaluate a machine learning model, including feature engineering and summarizing findings.
 
-### Communication Importance
+### Communication with Stakeholders
 Effective communication with stakeholders, team members, and cross-functional teams is critical for project success. This includes asking questions, sharing needs, and giving and receiving feedback.
 
 ---
